@@ -1,0 +1,4 @@
+def main() :
+    print("hello from ngf day 1") 
+if_name_=="_main_":
+    main() 
